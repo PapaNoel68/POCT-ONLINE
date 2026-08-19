@@ -1,0 +1,6 @@
+{
+  "name": "POCT ONLINE",
+  "description": "Listado Nacional y Base de Datos de Pruebas Point Of Care Testing (POCT) - Semedlab",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
